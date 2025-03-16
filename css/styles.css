@@ -191,8 +191,8 @@ font-weight: 500;
       line-height: 1.11;
       text-align: center;
       letter-spacing: 0.02em;
-      text-transform: capitalize
-      color#2E2F42;
+      text-transform: capitalize;
+      color:#2e2f42;
 }
 
 .our-portfolio-subtitle {
@@ -226,9 +226,10 @@ font-weight: 500;
 
 
 .logo-link-footr {
+   font-family: 'Releway',sans-serif;
    font-weight: 700;
       font-size: 18px;
-      line-height: 1.16667;
+      line-height:1.17;
       letter-spacing: 0.03em;
       text-transform: uppercase;
       color: #F4F4FD;
