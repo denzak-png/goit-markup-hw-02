@@ -20,17 +20,16 @@ a {
    text-decoration: none;
 }
 
-.button {
+.hero-btn { 
    cursor: pointer;
 }
 
 .logo-link {
-   font-family:'Releway';
-      font-weight: 700;
+   font-family: "Raleway", sans-serif;
+      font-weight:700;
       font-size: 18px;
       line-height: 1.17;
-      letter-spacing:0.03em;
-      vertical-align: middle;
+      letter-spacing: 0.03em;
       text-transform: uppercase;
    color:#2E2F42;
 }
@@ -75,6 +74,8 @@ a {
 .contact-link:focus {
    color: #404bbf;
 }
+
+
 .hero {
    background-color: #2e2f42;
 }
@@ -140,29 +141,31 @@ a {
 }
 
 
-.our-team {
+.our-team-title {
    font-weight: 700;
-      font-size: 36px;
-      line-height: 1.11;
-      letter-spacing: 0.02em;
-      text-align: center;
-      text-transform: capitalize;
-      color: #2E2F42;
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+   color: #2e2f42;
 }
-
-
-.our-team-subtitle{
-   font-weight: 500;
-      font-size: 20px;
-      line-height: 1.2;
-      letter-spacing: 0.02em;
-      color: #2e2f42;
-}
-
 
 .our-team-item {
    background-color: #ffffff;
 }
+
+
+
+.our-team-subtitle{
+font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+   background-color: #ffffff;
+}
+
 
 
 
@@ -173,6 +176,7 @@ a {
       line-height: 1.5;
       letter-spacing: 0.02em;
       color: #434455;
+      background-color: #ffffff;
 }
 
 
